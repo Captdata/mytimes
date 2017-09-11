@@ -1,0 +1,28 @@
+header{
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+  width: 100%;
+  align-items: center;
+  /*justify-content: center;*/
+}
+
+.logo {
+  color: MediumAquamarine;
+  display:inline-flex;
+  align-items:center;
+  justify-content: flex-start;
+}
+
+.nav {
+  display:inline-flex;
+  justify-content:flex-end;
+  align-items:center;
+  flex-wrap:wrap;
+}
+
+.nav a {
+  color: black;
+
+}
